@@ -7,3 +7,4 @@ coverage/
 build/
 .vscode/
 log/*.log
+logs/*.tmp
