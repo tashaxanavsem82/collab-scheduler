@@ -7,7 +7,7 @@ We expect all contributors to adhere to our code of conduct, ensuring a welcomin
 
 ## How to Contribute
 1. **Fork the Repository**: Click on the fork button at the top of the repository.
-2. **Create a New Branch**: Use `git checkout -b feature/your-feature-name` to create a new branch. Choose a descriptive name for your feature, following the format `feature/your-feature-name`. For bug fixes, use `bugfix/issue-description` format.
+2. **Create a New Branch**: Use `git checkout -b feature/your-feature-name` to create a new branch. Choose a descriptive name for your feature, following the format `feature/your-feature-name`. For bug fixes, use the format `bugfix/issue-description` or `fix/issue-description`.
 3. **Make Your Changes**: Code your features or fixes.
 4. **Commit Your Changes**: Use `git commit -m 'Add some feature'` to commit your changes.
 5. **Push to Your Branch**: Use `git push origin feature/your-feature-name` to push your changes.
