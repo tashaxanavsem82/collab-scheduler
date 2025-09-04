@@ -17,7 +17,7 @@ mongoose.connect(process.env.MONGODB_URI, {
 }).catch(err => console.error(err));
 
 app.get('/', (req, res) => {
-  res.send('Collab Scheduler API');
+  res.send('Collaborative Scheduler API');
 });
 
 app.listen(PORT, () => {
